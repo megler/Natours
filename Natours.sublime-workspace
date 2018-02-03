@@ -1,0 +1,1317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"__radio",
+				"__radio-button"
+			],
+			[
+				"__ra",
+				"__radio-button"
+			],
+			[
+				"color-",
+				"color-primary"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"color",
+				"color-primary-dark"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"u-mar",
+				"u-margin-bottom-small"
+			],
+			[
+				"btn",
+				"btn--white"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"clip",
+				"clip-path"
+			],
+			[
+				"card",
+				"card__side"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"outline",
+				"outline-offset"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"col",
+				"color-black"
+			],
+			[
+				"coloa",
+				"color-primary"
+			],
+			[
+				"u",
+				"u-margin-bottom-big"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"eas",
+				"ease-out"
+			],
+			[
+				"animatim",
+				"animation-timing-function"
+			],
+			[
+				"anim",
+				"animtf\tanimation-timing-function: ${1:linear};"
+			],
+			[
+				"mat",
+				"animation-duration"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"adopt",
+				"adoptForm"
+			],
+			[
+				"dog",
+				"dogName"
+			],
+			[
+				"emai",
+				"emailAddress"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"grid-r",
+				"grid-row-gap"
+			],
+			[
+				"grid-co",
+				"grid-column-gap"
+			],
+			[
+				"grid-templa",
+				"grid-template-rows"
+			],
+			[
+				"grid",
+				"grid-area"
+			],
+			[
+				"grid-te",
+				"grid-template-areas"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"grid-t",
+				"grid-template-rows"
+			],
+			[
+				"table",
+				"tablesorter"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"email",
+				"emailUpdate"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"pure",
+				"pure-g"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"opt",
+				"optgroup\tTag"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"game",
+				"gameOver"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ga",
+				"gameOver"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"timer",
+				"timerStart"
+			],
+			[
+				"tie",
+				"timerControl"
+			],
+			[
+				"gam",
+				"runGame"
+			],
+			[
+				"alie",
+				"alienPosition"
+			],
+			[
+				"al",
+				"aliens"
+			],
+			[
+				"co",
+				"collisionDetection"
+			],
+			[
+				"move",
+				"moveAliens"
+			],
+			[
+				"draw",
+				"drawAliens"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout\tsetTimeout()"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p1",
+				"p1score"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 19358,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout/_navigation.scss",
+			"settings":
+			{
+				"buffer_size": 2430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package re",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 653.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/abstracts",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/base",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/layout",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/pages",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/main.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_card.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_story.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/layout/_footer.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/abstracts/_variables.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_form.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_button.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/base/_utilities.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/index.html",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/pages/_home.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_bg-video.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_feature-box.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/components/_composition.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/base/_typography.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/layout/_header.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/css/style.css",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/layout/_grid.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/abstracts/_mixins.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/base/_base.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/base/_animations.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/sass/abstracts/_functions.scss",
+		"/C/Users/Owner/Documents/Web-Development-Work/advanced-css-course-master/Natours/starter/package.json",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/SAS_Package.sublime-settings",
+		"/C/Users/Owner/Documents/Web Development Work/advanced-css-course-master/Natours/starter/css/style.css",
+		"/C/Users/Owner/Documents/Web Development Work/advanced-css-course-master/Natours/starter/index.html",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Owner/Documents/Programming Files/Space Invaders/index.html",
+		"/C/Users/Owner/Documents/Programming Files/Space Invaders/Space Invaders.sublime-project",
+		"/C/Users/Owner/Documents/Programming Files/Space Invaders/Space Invaders.sublime-workspace",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/index.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/scripts/javascript.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/inc/footer.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/inc/nav.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/adoption-form.php",
+		"/C/Users/Owner/Documents/Harvard/Javasctipt CSCI/Egler_Marceia.project3b/CSCIE3HomeworkUnit3b.html",
+		"/C/Users/Owner/Documents/Harvard/Javasctipt CSCI/Egler_Marceia.project3b/js/hw3b.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/inc/foot-scripts.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/inc/meta.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/adoptable.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/styles/combined-style.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/.htaccess",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/styles/stylesheet.css",
+		"/C/Users/Owner/Documents/Harvard/Javasctipt CSCI/Egler_Marceia.project3a/CSCIE3Project3a.html",
+		"/C/Users/Owner/Documents/Harvard/Javasctipt CSCI/Egler_Marceia.project2b/hw2b_v3.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 2/lunch_special/form.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 2/lunch_special/styles/form.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/styles/style.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/template.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/faq.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/404.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/success.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/about.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/contact.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/donate.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/volunteer.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/wish.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/scripts/javascript.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/inc/nav.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/ii.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/index.html",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/phpcbf/phpcbf.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/phpcbf.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/phpcbf/Default (Windows).sublime-keymap",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/nav.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Final Project/header.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/index.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/css/constitution.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/vii.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/vi.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/v.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/iv.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/iii.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/amendments.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/inc/meta.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/table_sortable.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/vii.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/vi.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/v.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/iv.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/iii.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/ii.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/amendments.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/form_validation/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/inc/header.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/footer.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/original/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/nav.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/header.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/meta.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 10/usconstitution/parts/head.php",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 9/404.html",
+		"/C/Users/Owner/Desktop/map.js",
+		"/C/Users/Owner/Documents/Web Development Work/grid/index.html",
+		"/C/Users/Owner/Documents/Web Development Work/grid/style.css",
+		"/C/Users/Owner/Documents/Web Development Work/grid/script.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/gallery/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/form_validation/styles/style.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/form_validation/scripts/script.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/form_validation/scripts/script2.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/html_template.html",
+		"/C/Users/Owner/Downloads/pure-layout-gallery/index.html",
+		"/C/Users/Owner/Downloads/pure-layout-gallery/css/layouts/gallery.css",
+		"/C/Users/Owner/Documents/Web Development Work/Art Site/styles/style.css",
+		"/C/Users/Owner/Documents/Web Development Work/Art Site/index.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/scripts/script.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 8/cscie12_gallery_form/gallery/README.txt",
+		"/C/Users/Owner/Documents/Web Development Work/Art Site/meet-the-artist.html",
+		"/C/Program Files/Sublime Text 3/test.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/js/myscript.js",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/js/jquery.tablesorter.min.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/css/style.css",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/js/jquery.tablesorter.widgets",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/js/tablesorter/js/jquery.tablesorter.js",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/table_sortable/table_plain.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/js_events_jquery/events_jquery.html",
+		"/C/Users/Owner/Documents/Harvard/Fundamental Web Dev/Assignment 7/js_events/js/events.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\Users\\Owner\\Documents\\Web-Development-Work\\advanced-css-course-master\\Natours\\starter"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orange",
+			"small",
+			"$color-gray-dark",
+			"white",
+			"secondary",
+			"Photo",
+			"Photo 1",
+			"1.6rem",
+			"2",
+			"tertiary",
+			" \">",
+			"tertiary",
+			"heading-tertiary",
+			"$color-dark",
+			"$color-light",
+			"3",
+			"2",
+			".btn",
+			".heading-primary",
+			"#fff",
+			"40px",
+			"ha_style",
+			"defer",
+			"phone",
+			"Phone",
+			"phone",
+			"field",
+			"sm",
+			"<div class=\"col-4\">",
+			"Ezekiel",
+			"Thumb",
+			"thumbs/",
+			" adopt-card-img",
+			"<div>",
+			" style=\"width: 20rem;",
+			"class=\"card",
+			".jpg",
+			"align-content-center",
+			"col-3",
+			"row",
+			"justify",
+			"col-3",
+			" mx-auto",
+			"active",
+			"http://houndhaven.org",
+			"class=\"col-4",
+			"</div>",
+			"<div class=\"grid-item\">",
+			"example-gallery",
+			"carouselExampleIndicators",
+			"data-target=\"http://houndhaven.org/adopt\"",
+			"grid-item",
+			"img",
+			"primary",
+			"Adopt",
+			"success",
+			"active",
+			"html",
+			".",
+			"type=\"image\"",
+			"align-self: center;\n\tjustify-self: center;",
+			"input",
+			"img-responsive",
+			"img",
+			"class=\"img\"",
+			"lass=\"img\"",
+			"center",
+			"row",
+			"xl",
+			"<div class=\"w-100\"></div>\n",
+			"lg",
+			"col",
+			"-xl-auto",
+			"sm",
+			"photo",
+			"pure-u-lg-1-3 pure-u-md-1-2 pure-u-sm-1",
+			"class=\"",
+			"class=",
+			"div",
+			"class=\"img\"",
+			"data-fancybox=\"group\"",
+			"=\"group\"",
+			"img",
+			"id",
+			"</li>",
+			"<li>",
+			"data-fancybox",
+			"</li>",
+			"<li>",
+			". . ",
+			"grid",
+			"none",
+			".",
+			"-->",
+			"<!--",
+			"sm",
+			"form-control-sm",
+			"<br />",
+			"/label",
+			"label for=\"custName",
+			"col",
+			"nowrap",
+			"nav-link",
+			"<a",
+			"justify-content-center",
+			"</li>\n",
+			"li",
+			"disabled",
+			"sm",
+			"text-sm-center",
+			"6",
+			">\n",
+			"-1",
+			"col",
+			"12",
+			"6",
+			"col",
+			"dog",
+			"3",
+			"20em",
+			"h2",
+			"gameover",
+			"focus",
+			"RIGHT",
+			"32",
+			"space",
+			"start",
+			"Game_Interval"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$color-gray-dark-1",
+			"$default-font-size",
+			"$color-primary-dark",
+			"$color-primary-light",
+			"gameInterval"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								771,
+								771
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										773,
+										777
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										735,
+										739
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/layout/_navigation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2420,
+								2420
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										824,
+										825
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										696,
+										697
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2423,
+										2424
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2415,
+										2416
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2417.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Natours.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
